@@ -1,0 +1,20 @@
+[
+  {
+    "id": 2,
+    "name": "Kontaktni udaje",
+    "keywords": "Kontakt",
+    "required": "false",
+    "categories": [3, 7],
+    "inputs": [
+      {
+        "label": "Jmeno",
+        "type": "input-m",
+        "“defaultValue“": "None",
+        "indexField": true,
+        "size": ".5",
+        "required": true,
+        "comment": "this is trully \n amazing input"
+      }
+    ]
+  }
+]
